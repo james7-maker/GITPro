@@ -1,0 +1,20 @@
+C:\Users\Mukazika\Documents\Visual Studio 2015\Projects\login\login\bin\Debug\login.exe.config
+C:\Users\Mukazika\Documents\Visual Studio 2015\Projects\login\login\bin\Debug\login.exe
+C:\Users\Mukazika\Documents\Visual Studio 2015\Projects\login\login\bin\Debug\login.pdb
+C:\Users\Mukazika\Documents\Visual Studio 2015\Projects\login\login\obj\Debug\CalculatorShop.csprojResolveAssemblyReference.cache
+C:\Users\Mukazika\Documents\Visual Studio 2015\Projects\login\login\obj\Debug\login.Login.resources
+C:\Users\Mukazika\Documents\Visual Studio 2015\Projects\login\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\Mukazika\Documents\Visual Studio 2015\Projects\login\login\obj\Debug\CalculatorShop.csproj.GenerateResource.Cache
+C:\Users\Mukazika\Documents\Visual Studio 2015\Projects\login\login\obj\Debug\login.exe
+C:\Users\Mukazika\Documents\Visual Studio 2015\Projects\login\login\obj\Debug\login.pdb
+C:\Users\Mukazika\Documents\Visual Studio 2015\Projects\login\login\obj\Debug\login.Form2.resources
+C:\Users\Mukazika\Desktop\CalcManagementShop\login\bin\Debug\login.exe.config
+C:\Users\Mukazika\Desktop\CalcManagementShop\login\obj\Debug\login.exe
+C:\Users\Mukazika\Desktop\CalcManagementShop\login\obj\Debug\login.pdb
+C:\Users\Mukazika\Desktop\CalcManagementShop\login\bin\Debug\login.exe
+C:\Users\Mukazika\Desktop\CalcManagementShop\login\bin\Debug\login.pdb
+C:\Users\Mukazika\Desktop\CalcManagementShop\login\obj\Debug\CalculatorShop.csprojResolveAssemblyReference.cache
+C:\Users\Mukazika\Desktop\CalcManagementShop\login\obj\Debug\Login.Form2.resources
+C:\Users\Mukazika\Desktop\CalcManagementShop\login\obj\Debug\login.Login.resources
+C:\Users\Mukazika\Desktop\CalcManagementShop\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\Mukazika\Desktop\CalcManagementShop\login\obj\Debug\CalculatorShop.csproj.GenerateResource.Cache
